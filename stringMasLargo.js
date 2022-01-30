@@ -9,7 +9,7 @@ for (let i = 0; i < ciudades.length; i++) {
 
     console.log(ciudades[i].length); //esto me muestra en consola los tamaños de los string en la consola
 
-    Numeros.push(ciudades[i].length);
+    Numeros.push(ciudades[i].length);//esto mete cada valor en el array 
 
     
 }  
